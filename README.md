@@ -4,4 +4,4 @@
 
 Taken from [TalkNET](https://github.com/NVIDIA/NeMo/blob/main/nemo/collections/tts/models/talknet.py) and made trainable on colab by [Justin John](https://github.com/justinjohn0306). 
 
-If you look for assistance, feel free to join [discord](https://discord.com/invite/NhJZGtH) and ask in the tech support there. 
+If you are looking for assistance, feel free to join [discord](https://discord.com/invite/NhJZGtH) and ask in the tech support there. 
