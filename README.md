@@ -1,6 +1,6 @@
 # TalkNET-colab
 
-**TalkNET Model Training Notebook**: <a href="https://colab.research.google.com/github/justinjohn0306/TalkNET-colab/blob/main/TalkNet_Training.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+**TalkNET Model Training Notebook**: <a href="https://colab.research.google.com/github/justinjohn0306/TalkNET-colab/blob/main/Latest_TalkNet_Training.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 **TalkNET Synthesis Notebook (when you have a model)**: <a href="https://colab.research.google.com/github/justinjohn0306/TalkNET-colab/blob/main/Controllable_TalkNet.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
