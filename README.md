@@ -2,7 +2,7 @@
 
 **TalkNET Model Training Notebook**: <a href="https://colab.research.google.com/github/justinjohn0306/TalkNET-colab/blob/main/TalkNet_Training.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-**TalkNET Model Training Noteboo (V100 and A100 GPU)k**: <a href="https://colab.research.google.com/github.com/justinjohn0306/TalkNET-colab/blob/dev/TalkNet_Training_A100.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+**TalkNET Model Training Noteboo (V100 and A100 GPU)**: <a href="https://colab.research.google.com/github.com/justinjohn0306/TalkNET-colab/blob/dev/TalkNet_Training_A100.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 **TalkNET Synthesis Notebook (when you have a model)**: <a href="https://colab.research.google.com/github/justinjohn0306/TalkNET-colab/blob/main/Latest_Controllable_TalkNet.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
